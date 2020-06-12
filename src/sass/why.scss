@@ -1,9 +1,10 @@
 .why {
     text-align: center;
-    background: var(--Gray);
-    padding-top: 5em;
+    background: var(--gray);
+    padding: 5em;
     .copy {
         margin-bottom: 4em;
+        font-size: 1em;
     }
     &__item {
         .copy {

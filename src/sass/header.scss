@@ -1,0 +1,6 @@
+.header {
+    display: flex; // pone todo en la misma linea
+    padding: 1em 1.5em;
+    justify-content: space-between; // hace que cada elemento (en este caso 2: logo y menú esten uno en contra del otro)
+
+}
